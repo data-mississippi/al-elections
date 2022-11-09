@@ -1,12 +1,12 @@
 {
-    "PRECINCTS COUNTED (OF 181).  .  .  .  .       130   71.82": {
+    "PRECINCTS COUNTED (OF 181).  .  .  .  .       166   91.71": {
         "BALLOTS CAST - TOTAL": {
             "count": 0,
             "percentage": 0
         },
         "BALLOTS CAST - BLANK": {
-            "count": 0,
-            "percentage": 0
+            "count": "9",
+            "percentage": ".01"
         },
         "VOTER TURNOUT - TOTAL": {
             "count": 0,
@@ -19,214 +19,214 @@
     },
     "STRAIGHT PARTY VOTING": {
         "ALABAMA DEMOCRATIC PARTY (DEM)": {
-            "count": "51,865",
-            "percentage": "61.09"
+            "count": "64,962",
+            "percentage": "53.92"
         },
         "ALABAMA REPUBLICAN PARTY (REP)": {
-            "count": "32,586",
-            "percentage": "38.38"
+            "count": "54,914",
+            "percentage": "45.58"
         },
         "LIBERTARIAN PARTY OF ALABAMA (LIB)": {
-            "count": "443",
-            "percentage": ".52"
+            "count": "613",
+            "percentage": ".51"
         }
     },
     "GOVERNOR": {
         "YOLANDA ROCHELLE FLOWERS (DEM)": {
-            "count": "68,240",
-            "percentage": "55.58"
+            "count": "86,316",
+            "percentage": "49.55"
         },
         "KAY IVEY (REP)": {
-            "count": "48,936",
-            "percentage": "39.86"
+            "count": "79,967",
+            "percentage": "45.90"
         },
         "JAMES \"JIMMY\" BLAKE (LIB)": {
-            "count": "4,460",
-            "percentage": "3.63"
+            "count": "6,342",
+            "percentage": "3.64"
         },
         "WRITE-IN": {
-            "count": "1,148",
-            "percentage": ".93"
+            "count": "1,585",
+            "percentage": ".91"
         }
     },
     "LIEUTENANT GOVERNOR": {
         "WILL AINSWORTH (REP)": {
-            "count": "51,058",
-            "percentage": "67.43"
+            "count": "82,810",
+            "percentage": "71.99"
         },
         "RUTH PAGE-NELSON (LIB)": {
-            "count": "23,312",
-            "percentage": "30.79"
+            "count": "30,479",
+            "percentage": "26.50"
         },
         "WRITE-IN": {
-            "count": "1,350",
-            "percentage": "1.78"
+            "count": "1,740",
+            "percentage": "1.51"
         }
     },
     "UNITED STATES SENATOR": {
         "WILL BOYD (DEM)": {
-            "count": "71,432",
-            "percentage": "58.08"
+            "count": "90,572",
+            "percentage": "51.91"
         },
         "KATIE BRITT (REP)": {
-            "count": "48,353",
-            "percentage": "39.31"
+            "count": "79,274",
+            "percentage": "45.43"
         },
         "JOHN SOPHOCLEUS (LIB)": {
-            "count": "2,986",
-            "percentage": "2.43"
+            "count": "4,314",
+            "percentage": "2.47"
         },
         "WRITE-IN": {
-            "count": "224",
+            "count": "319",
             "percentage": ".18"
         }
     },
     "UNITED STATES REPRESENTATIVE 6TH CONGRESSIONAL DISTRICT": {
         "GARY PALMER (REP)": {
-            "count": "32,400",
-            "percentage": "75.48"
+            "count": "60,743",
+            "percentage": "79.64"
         },
         "ANDRIA CHIEFFO (LIB)": {
-            "count": "9,590",
-            "percentage": "22.34"
+            "count": "14,252",
+            "percentage": "18.68"
         },
         "WRITE-IN": {
-            "count": "935",
-            "percentage": "2.18"
+            "count": "1,281",
+            "percentage": "1.68"
         }
     },
     "UNITED STATES REPRESENTATIVE 7TH CONGRESSIONAL DISTRICT": {
         "TERRYCINA SEWELL (DEM)": {
-            "count": "49,906",
-            "percentage": "73.70"
+            "count": "58,054",
+            "percentage": "73.17"
         },
         "BEATRICE NICHOLS (REP)": {
-            "count": "16,576",
-            "percentage": "24.48"
+            "count": "19,885",
+            "percentage": "25.06"
         },
         "GAVIN GOODMAN (LIB)": {
-            "count": "1,207",
-            "percentage": "1.78"
+            "count": "1,377",
+            "percentage": "1.74"
         },
         "WRITE-IN": {
-            "count": "26",
+            "count": "30",
             "percentage": ".04"
         }
     },
     "ATTORNEY GENERAL": {
         "WENDELL MAJOR (DEM)": {
-            "count": "73,180",
-            "percentage": "59.80"
+            "count": "92,871",
+            "percentage": "53.49"
         },
         "STEVE MARSHALL (REP)": {
-            "count": "49,065",
-            "percentage": "40.10"
+            "count": "80,594",
+            "percentage": "46.42"
         },
         "WRITE-IN": {
-            "count": "125",
-            "percentage": ".10"
+            "count": "162",
+            "percentage": ".09"
         }
     },
     "STATE SENATOR DISTRICT NO. 5": {
         "GREG J REED (REP)": {
-            "count": "1,649",
-            "percentage": "99.58"
+            "count": "3,892",
+            "percentage": "99.51"
         },
         "WRITE-IN": {
-            "count": "7",
-            "percentage": ".42"
+            "count": "19",
+            "percentage": ".49"
         }
     },
     "STATE SENATOR DISTRICT NO. 15": {
         "DAN ROBERTS (REP)": {
-            "count": "8,389",
-            "percentage": "82.30"
+            "count": "13,437",
+            "percentage": "82.95"
         },
         "MICHAEL CRUMP (LIB)": {
-            "count": "1,732",
-            "percentage": "16.99"
+            "count": "2,649",
+            "percentage": "16.35"
         },
         "WRITE-IN": {
-            "count": "72",
-            "percentage": ".71"
+            "count": "112",
+            "percentage": ".69"
         }
     },
     "STATE SENATOR DISTRICT NO. 16": {
         "J.T. \"JABO\" WAGGONER (REP)": {
-            "count": "17,580",
-            "percentage": "95.65"
+            "count": "22,431",
+            "percentage": "95.58"
         },
         "WRITE-IN": {
-            "count": "800",
-            "percentage": "4.35"
+            "count": "1,038",
+            "percentage": "4.42"
         }
     },
     "STATE SENATOR DISTRICT NO. 17": {
         "SHAY SHELNUTT (REP)": {
-            "count": "3,569",
-            "percentage": "85.88"
+            "count": "15,481",
+            "percentage": "89.52"
         },
         "JOHN FORTENBERRY (LIB)": {
-            "count": "566",
-            "percentage": "13.62"
+            "count": "1,745",
+            "percentage": "10.09"
         },
         "WRITE-IN": {
-            "count": "21",
-            "percentage": ".51"
+            "count": "68",
+            "percentage": ".39"
         }
     },
     "STATE SENATOR DISTRICT NO. 18": {
         "RODGER M. SMITHERMAN (DEM)": {
-            "count": "25,656",
-            "percentage": "99.05"
+            "count": "28,608",
+            "percentage": "98.78"
         },
         "WRITE-IN": {
-            "count": "246",
-            "percentage": ".95"
+            "count": "354",
+            "percentage": "1.22"
         }
     },
     "STATE SENATOR DISTRICT NO. 19": {
         "MERIKA COLEMAN (DEM)": {
-            "count": "19,655",
-            "percentage": "86.24"
+            "count": "26,332",
+            "percentage": "86.51"
         },
         "DANNY WILSON (LIB)": {
-            "count": "2,974",
-            "percentage": "13.05"
+            "count": "3,902",
+            "percentage": "12.82"
         },
         "WRITE-IN": {
-            "count": "163",
-            "percentage": ".72"
+            "count": "204",
+            "percentage": ".67"
         }
     },
     "STATE SENATOR DISTRICT NO. 20": {
         "LINDA COLEMAN-MADISON (DEM)": {
-            "count": "15,871",
-            "percentage": "99.11"
+            "count": "19,638",
+            "percentage": "98.69"
         },
         "WRITE-IN": {
-            "count": "143",
-            "percentage": ".89"
+            "count": "261",
+            "percentage": "1.31"
         }
     },
     "STATE REPRESENTATIVE DISTRICT NO. 14": {
         "TIMOTHY (TIM) WADSWORTH (REP)": {
-            "count": 0,
-            "percentage": 0
+            "count": "1,706",
+            "percentage": "99.53"
         },
         "WRITE-IN": {
-            "count": 0,
-            "percentage": 0
+            "count": "8",
+            "percentage": ".47"
         }
     },
     "STATE REPRESENTATIVE DISTRICT NO. 15": {
         "RICHARD P. ROUCO (DEM)": {
-            "count": "4,901",
-            "percentage": "39.79"
+            "count": "5,069",
+            "percentage": "39.90"
         },
         "LEIGH HULSEY (REP)": {
-            "count": "7,407",
-            "percentage": "60.13"
+            "count": "7,624",
+            "percentage": "60.02"
         },
         "WRITE-IN": {
             "count": "10",
@@ -235,578 +235,578 @@
     },
     "STATE REPRESENTATIVE DISTRICT NO. 16": {
         "KYLE SOUTH (REP)": {
-            "count": "3,249",
-            "percentage": "99.33"
+            "count": "3,797",
+            "percentage": "99.40"
         },
         "WRITE-IN": {
-            "count": "22",
-            "percentage": ".67"
+            "count": "23",
+            "percentage": ".60"
         }
     },
     "STATE REPRESENTATIVE DISTRICT NO. 44": {
         "DANNY GARRETT (REP)": {
-            "count": "3,123",
-            "percentage": "77.11"
+            "count": "3,363",
+            "percentage": "77.61"
         },
         "JOHN WILEY BOONE (LIB)": {
-            "count": "879",
-            "percentage": "21.70"
+            "count": "922",
+            "percentage": "21.28"
         },
         "WRITE-IN": {
             "count": "48",
-            "percentage": "1.19"
+            "percentage": "1.11"
         }
     },
     "STATE REPRESENTATIVE DISTRICT NO. 45": {
         "SUSAN DUBOSE (REP)": {
-            "count": "610",
-            "percentage": "77.71"
+            "count": "713",
+            "percentage": "78.27"
         },
         "KARI MITCHELL WHITAKER (LIB)": {
-            "count": "170",
-            "percentage": "21.66"
+            "count": "193",
+            "percentage": "21.19"
         },
         "WRITE-IN": {
             "count": "5",
-            "percentage": ".64"
+            "percentage": ".55"
         }
     },
     "STATE REPRESENTATIVE DISTRICT NO. 46": {
         "DAVID FAULKNER (REP)": {
-            "count": "9,841",
-            "percentage": "96.68"
+            "count": "12,646",
+            "percentage": "96.80"
         },
         "WRITE-IN": {
-            "count": "338",
-            "percentage": "3.32"
+            "count": "418",
+            "percentage": "3.20"
         }
     },
     "STATE REPRESENTATIVE DISTRICT NO. 47": {
         "CHRISTIAN COLEMAN (DEM)": {
-            "count": "3,304",
-            "percentage": "33.93"
+            "count": "4,815",
+            "percentage": "35.92"
         },
         "MIKE SHAW (REP)": {
-            "count": "6,430",
-            "percentage": "66.03"
+            "count": "8,582",
+            "percentage": "64.03"
         },
         "WRITE-IN": {
-            "count": "4",
-            "percentage": ".04"
+            "count": "7",
+            "percentage": ".05"
         }
     },
     "STATE REPRESENTATIVE DISTRICT NO. 48": {
         "JIM CARNS (REP)": {
-            "count": "5,681",
-            "percentage": "84.79"
+            "count": "10,193",
+            "percentage": "84.09"
         },
         "BRUCE STUTTS (LIB)": {
-            "count": "984",
-            "percentage": "14.69"
+            "count": "1,857",
+            "percentage": "15.32"
         },
         "WRITE-IN": {
-            "count": "35",
-            "percentage": ".52"
+            "count": "72",
+            "percentage": ".59"
         }
     },
     "STATE REPRESENTATIVE DISTRICT NO. 51": {
         "ALLEN TREADAWAY (REP)": {
-            "count": "1,827",
-            "percentage": "98.33"
+            "count": "14,008",
+            "percentage": "98.61"
         },
         "WRITE-IN": {
-            "count": "31",
-            "percentage": "1.67"
+            "count": "198",
+            "percentage": "1.39"
         }
     },
     "STATE REPRESENTATIVE DISTRICT NO. 52": {
         "JOHN W. ROGERS JR. (DEM)": {
-            "count": "9,034",
-            "percentage": "99.34"
+            "count": "10,207",
+            "percentage": "99.14"
         },
         "WRITE-IN": {
-            "count": "60",
-            "percentage": ".66"
+            "count": "89",
+            "percentage": ".86"
         }
     },
     "STATE REPRESENTATIVE DISTRICT NO. 54": {
         "NEIL RAFFERTY (DEM)": {
-            "count": "9,461",
-            "percentage": "98.91"
+            "count": "9,789",
+            "percentage": "98.88"
         },
         "WRITE-IN": {
-            "count": "104",
-            "percentage": "1.09"
+            "count": "111",
+            "percentage": "1.12"
         }
     },
     "STATE REPRESENTATIVE DISTRICT NO. 55": {
         "FRED \"COACH\" PLUMP (DEM)": {
-            "count": "8,948",
-            "percentage": "99.29"
+            "count": "10,012",
+            "percentage": "99.34"
         },
         "WRITE-IN": {
-            "count": "64",
-            "percentage": ".71"
+            "count": "67",
+            "percentage": ".66"
         }
     },
     "STATE REPRESENTATIVE DISTRICT NO. 56": {
         "ONTARIO J. TILLMAN (DEM)": {
-            "count": "5,385",
-            "percentage": "92.75"
+            "count": "8,987",
+            "percentage": "90.64"
         },
         "CARSON B. LESTER (LIB)": {
-            "count": "393",
-            "percentage": "6.77"
+            "count": "868",
+            "percentage": "8.75"
         },
         "WRITE-IN": {
-            "count": "28",
-            "percentage": ".48"
+            "count": "60",
+            "percentage": ".61"
         }
     },
     "STATE REPRESENTATIVE DISTRICT NO. 57": {
         "PATRICK SELLERS (DEM)": {
-            "count": "7,524",
-            "percentage": "64.99"
+            "count": "9,213",
+            "percentage": "64.88"
         },
         "DELOR BAUMANN (REP)": {
-            "count": "3,849",
-            "percentage": "33.25"
+            "count": "4,749",
+            "percentage": "33.44"
         },
         "MANIJEH NANCY JONES (LIB)": {
-            "count": "186",
-            "percentage": "1.61"
+            "count": "218",
+            "percentage": "1.54"
         },
         "WRITE-IN": {
-            "count": "18",
-            "percentage": ".16"
+            "count": "21",
+            "percentage": ".15"
         }
     },
     "STATE REPRESENTATIVE DISTRICT NO. 58": {
         "ROLANDA HOLLIS (DEM)": {
-            "count": "2,232",
-            "percentage": "98.89"
+            "count": "3,406",
+            "percentage": "98.70"
         },
         "WRITE-IN": {
-            "count": "25",
-            "percentage": "1.11"
+            "count": "45",
+            "percentage": "1.30"
         }
     },
     "STATE REPRESENTATIVE DISTRICT NO. 59": {
         "MARY MOORE (DEM)": {
-            "count": "5,938",
-            "percentage": "99.66"
+            "count": "7,373",
+            "percentage": "99.22"
         },
         "WRITE-IN": {
-            "count": "20",
-            "percentage": ".34"
+            "count": "58",
+            "percentage": ".78"
         }
     },
     "STATE REPRESENTATIVE DISTRICT NO. 60": {
         "JUANDALYNN GIVAN (DEM)": {
-            "count": "7,300",
-            "percentage": "95.73"
+            "count": "9,867",
+            "percentage": "89.35"
         },
         "J.P. FRENCH (LIB)": {
-            "count": "315",
-            "percentage": "4.13"
+            "count": "1,126",
+            "percentage": "10.20"
         },
         "WRITE-IN": {
-            "count": "11",
-            "percentage": ".14"
+            "count": "50",
+            "percentage": ".45"
         }
     },
     "ASSOCIATE JUSTICE OF THE  SUPREME COURT, PLACE 5": {
         "ANITA L. KELLY (DEM)": {
-            "count": "72,703",
-            "percentage": "59.82"
+            "count": "92,223",
+            "percentage": "53.48"
         },
         "GREG COOK (REP)": {
-            "count": "48,752",
-            "percentage": "40.11"
+            "count": "80,104",
+            "percentage": "46.45"
         },
         "WRITE-IN": {
-            "count": "86",
+            "count": "117",
             "percentage": ".07"
         }
     },
     "ASSOCIATE JUSTICE OF THE  SUPREME COURT, PLACE 6": {
         "KELLI WISE (REP)": {
-            "count": "56,006",
-            "percentage": "93.35"
+            "count": "89,391",
+            "percentage": "94.54"
         },
         "WRITE-IN": {
-            "count": "3,990",
-            "percentage": "6.65"
+            "count": "5,161",
+            "percentage": "5.46"
         }
     },
     "SECRETARY OF STATE": {
         "PAMELA J. LAFFITTE (DEM)": {
-            "count": "71,540",
-            "percentage": "58.56"
+            "count": "90,644",
+            "percentage": "52.30"
         },
         "WES ALLEN (REP)": {
-            "count": "47,040",
-            "percentage": "38.51"
+            "count": "77,613",
+            "percentage": "44.78"
         },
         "JASON \"MATT\" SHELBY (LIB)": {
-            "count": "3,521",
-            "percentage": "2.88"
+            "count": "4,969",
+            "percentage": "2.87"
         },
         "WRITE-IN": {
-            "count": "59",
+            "count": "79",
             "percentage": ".05"
         }
     },
     "STATE TREASURER": {
         "YOUNG BOOZER (REP)": {
-            "count": "50,941",
-            "percentage": "69.00"
+            "count": "82,529",
+            "percentage": "73.28"
         },
         "SCOTT HAMMOND (LIB)": {
-            "count": "21,375",
-            "percentage": "28.95"
+            "count": "28,156",
+            "percentage": "25.00"
         },
         "WRITE-IN": {
-            "count": "1,514",
-            "percentage": "2.05"
+            "count": "1,937",
+            "percentage": "1.72"
         }
     },
     "STATE AUDITOR": {
         "ANDREW SORRELL (REP)": {
-            "count": "50,453",
-            "percentage": "69.10"
+            "count": "81,991",
+            "percentage": "73.50"
         },
         "LEIGH LACHINE (LIB)": {
-            "count": "21,160",
-            "percentage": "28.98"
+            "count": "27,760",
+            "percentage": "24.89"
         },
         "WRITE-IN": {
-            "count": "1,404",
-            "percentage": "1.92"
+            "count": "1,799",
+            "percentage": "1.61"
         }
     },
     "COMMISSIONER OF  AGRICULTURE AND INDUSTRIES": {
         "RICK PATE (REP)": {
-            "count": "50,317",
-            "percentage": "69.38"
+            "count": "81,798",
+            "percentage": "73.75"
         },
         "JASON CLARK (LIB)": {
-            "count": "20,850",
-            "percentage": "28.75"
+            "count": "27,387",
+            "percentage": "24.69"
         },
         "WRITE-IN": {
-            "count": "1,355",
-            "percentage": "1.87"
+            "count": "1,721",
+            "percentage": "1.55"
         }
     },
     "PUBLIC SERVICE COMMISSION,  PLACE NO. 1": {
         "JEREMY H. ODEN (REP)": {
-            "count": "49,254",
-            "percentage": "68.20"
+            "count": "80,341",
+            "percentage": "72.72"
         },
         "RON BISHOP (LIB)": {
-            "count": "21,563",
-            "percentage": "29.86"
+            "count": "28,336",
+            "percentage": "25.65"
         },
         "WRITE-IN": {
-            "count": "1,403",
-            "percentage": "1.94"
+            "count": "1,796",
+            "percentage": "1.63"
         }
     },
     "PUBLIC SERVICE COMMISSION,  PLACE NO. 2": {
         "CHIP BEEKER (REP)": {
-            "count": "48,835",
-            "percentage": "67.37"
+            "count": "79,726",
+            "percentage": "71.96"
         },
         "LAURA LANE (LIB)": {
-            "count": "22,263",
-            "percentage": "30.71"
+            "count": "29,286",
+            "percentage": "26.43"
         },
         "WRITE-IN": {
-            "count": "1,386",
-            "percentage": "1.91"
+            "count": "1,774",
+            "percentage": "1.60"
         }
     },
     "MEMBER,  STATE BOARD OF EDUCATION, DISTRICT NO. 4": {
         "YVETTE M. RICHARDSON (DEM)": {
-            "count": "59,815",
-            "percentage": "98.51"
+            "count": "71,783",
+            "percentage": "98.42"
         },
         "WRITE-IN": {
-            "count": "907",
-            "percentage": "1.49"
+            "count": "1,156",
+            "percentage": "1.58"
         }
     },
     "CIRCUIT COURT JUDGE,  10TH JUDICIAL CIRCUIT,  PLACE": {
         "REGINALD L. JETER (DEM)": {
-            "count": "76,594",
-            "percentage": "98.14"
+            "count": "98,332",
+            "percentage": "97.61"
         },
         "WRITE-IN": {
-            "count": "1,450",
-            "percentage": "1.86"
+            "count": "2,407",
+            "percentage": "2.39"
         }
     },
     "CIRCUIT COURT JUDGE,  10TH JUDICIAL CIRCUIT,   PLACE": {
         "MICHAEL STREETY (DEM)": {
-            "count": "76,556",
-            "percentage": "98.16"
+            "count": "98,307",
+            "percentage": "97.64"
         },
         "WRITE-IN": {
-            "count": "1,435",
-            "percentage": "1.84"
+            "count": "2,378",
+            "percentage": "2.36"
         }
     },
     "DISTRICT ATTORNEY,  10TH JUDICIAL CIRCUIT": {
         "DANNY CARR (DEM)": {
-            "count": "77,162",
-            "percentage": "98.17"
+            "count": "99,120",
+            "percentage": "97.64"
         },
         "WRITE-IN": {
-            "count": "1,442",
-            "percentage": "1.83"
+            "count": "2,397",
+            "percentage": "2.36"
         }
     },
     "DISTRICT ATTORNEY,  10TH JUDICIAL CIRCUIT,  BESSEMER": {
         "LYNNEICE O. WASHINGTON (DEM)": {
-            "count": "19,729",
-            "percentage": "52.32"
+            "count": "26,635",
+            "percentage": "53.25"
         },
         "BILL VEITCH (REP)": {
-            "count": "17,941",
-            "percentage": "47.58"
+            "count": "23,336",
+            "percentage": "46.66"
         },
         "WRITE-IN": {
-            "count": "37",
-            "percentage": ".10"
+            "count": "47",
+            "percentage": ".09"
         }
     },
     "DISTRICT COURT JUDGE,  JEFFERSON COUNTY, PLACE NO. 4": {
         "WILLIAM A. BELL JR. (DEM)": {
-            "count": "76,352",
-            "percentage": "97.95"
+            "count": "98,045",
+            "percentage": "97.43"
         },
         "WRITE-IN": {
-            "count": "1,596",
-            "percentage": "2.05"
+            "count": "2,591",
+            "percentage": "2.57"
         }
     },
     "DISTRICT COURT JUDGE,  JEFFERSON COUNTY, PLACE NO. 5": {
         "SHERA CRAIG GRANT (DEM)": {
-            "count": "76,579",
-            "percentage": "98.15"
+            "count": "98,323",
+            "percentage": "97.63"
         },
         "WRITE-IN": {
-            "count": "1,445",
-            "percentage": "1.85"
+            "count": "2,391",
+            "percentage": "2.37"
         }
     },
     "DISTRICT COURT JUDGE,  JEFFERSON COUNTY, PLACE NO. 1": {
         "KATHY-ANN MARCIA ALEXIS (DEM)": {
-            "count": "76,318",
-            "percentage": "98.09"
+            "count": "97,987",
+            "percentage": "97.57"
         },
         "WRITE-IN": {
-            "count": "1,484",
-            "percentage": "1.91"
+            "count": "2,439",
+            "percentage": "2.43"
         }
     },
     "JEFFERSON COUNTY SHERIFF": {
         "MARK LEVIE PETTWAY (DEM)": {
-            "count": "72,791",
-            "percentage": "59.50"
+            "count": "92,097",
+            "percentage": "53.06"
         },
         "JARED HUDSON (REP)": {
-            "count": "49,458",
-            "percentage": "40.43"
+            "count": "81,375",
+            "percentage": "46.88"
         },
         "WRITE-IN": {
-            "count": "84",
-            "percentage": ".07"
+            "count": "112",
+            "percentage": ".06"
         }
     },
     "MEMBER,  JEFFERSON COUNTY COMMISSION DISTRICT NO. 1": {
         "LASHUNDA SCALES (DEM)": {
-            "count": "22,715",
-            "percentage": "98.98"
+            "count": "26,339",
+            "percentage": "98.88"
         },
         "WRITE-IN": {
-            "count": "233",
-            "percentage": "1.02"
+            "count": "297",
+            "percentage": "1.12"
         }
     },
     "MEMBER,  JEFFERSON COUNTY COMMISSION DISTRICT NO. 2": {
         "SHEILA TYSON (DEM)": {
-            "count": "26,433",
-            "percentage": "99.04"
+            "count": "29,538",
+            "percentage": "98.99"
         },
         "WRITE-IN": {
-            "count": "257",
-            "percentage": ".96"
+            "count": "302",
+            "percentage": "1.01"
         }
     },
     "MEMBER,  JEFFERSON COUNTY COMMISSION DISTRICT NO. 3": {
         "JIMMIE STEPHENS (REP)": {
-            "count": "17,466",
-            "percentage": "81.60"
+            "count": "29,274",
+            "percentage": "82.89"
         },
         "DEVIN CORDELL (LIB)": {
-            "count": "3,713",
-            "percentage": "17.35"
+            "count": "5,703",
+            "percentage": "16.15"
         },
         "WRITE-IN": {
-            "count": "226",
-            "percentage": "1.06"
+            "count": "341",
+            "percentage": ".97"
         }
     },
     "MEMBER,  JEFFERSON COUNTY COMMISSION DISTRICT NO. 4": {
         "JOE KNIGHT (REP)": {
-            "count": "6,918",
-            "percentage": "94.74"
+            "count": "17,857",
+            "percentage": "96.37"
         },
         "WRITE-IN": {
-            "count": "384",
-            "percentage": "5.26"
+            "count": "672",
+            "percentage": "3.63"
         }
     },
     "MEMBER,  JEFFERSON COUNTY COMMISSION DISTRICT NO. 5": {
         "STEVE AMMONS (REP)": {
-            "count": "20,702",
-            "percentage": "97.19"
+            "count": "28,434",
+            "percentage": "97.14"
         },
         "WRITE-IN": {
-            "count": "598",
-            "percentage": "2.81"
+            "count": "837",
+            "percentage": "2.86"
         }
     },
     "MEMBER, JEFFERSON COUNTY  BOARD OF EDUCATION": {
         "CARITA VENABLE (DEM)": {
-            "count": "57,381",
-            "percentage": "98.28"
+            "count": "69,286",
+            "percentage": "98.03"
         },
         "WRITE-IN": {
-            "count": "1,003",
-            "percentage": "1.72"
+            "count": "1,393",
+            "percentage": "1.97"
         }
     },
     "CONSTITUTION OF ALABAMA  OF 2022": {
         "Yes": {
-            "count": "88,191",
-            "percentage": "82.63"
+            "count": "122,884",
+            "percentage": "81.54"
         },
         "No": {
-            "count": "18,542",
-            "percentage": "17.37"
+            "count": "27,817",
+            "percentage": "18.46"
         }
     },
     "STATEWIDE AMENDMENT 1": {
         "Yes": {
-            "count": "83,389",
-            "percentage": "74.07"
+            "count": "120,921",
+            "percentage": "75.90"
         },
         "No": {
-            "count": "29,190",
-            "percentage": "25.93"
+            "count": "38,398",
+            "percentage": "24.10"
         }
     },
     "STATEWIDE AMENDMENT 2": {
         "Yes": {
-            "count": "83,276",
-            "percentage": "77.71"
+            "count": "116,806",
+            "percentage": "77.47"
         },
         "No": {
-            "count": "23,885",
-            "percentage": "22.29"
+            "count": "33,961",
+            "percentage": "22.53"
         }
     },
     "STATEWIDE AMENDMENT 3": {
         "Yes": {
-            "count": "81,845",
-            "percentage": "75.32"
+            "count": "117,425",
+            "percentage": "76.65"
         },
         "No": {
-            "count": "26,812",
-            "percentage": "24.68"
+            "count": "35,781",
+            "percentage": "23.35"
         }
     },
     "STATEWIDE AMENDMENT 4": {
         "Yes": {
-            "count": "77,012",
-            "percentage": "72.98"
+            "count": "110,469",
+            "percentage": "74.29"
         },
         "No": {
-            "count": "28,512",
-            "percentage": "27.02"
+            "count": "38,231",
+            "percentage": "25.71"
         }
     },
     "STATEWIDE AMENDMENT 5": {
         "Yes": {
-            "count": "75,007",
-            "percentage": "73.84"
+            "count": "104,017",
+            "percentage": "72.94"
         },
         "No": {
-            "count": "26,578",
-            "percentage": "26.16"
+            "count": "38,590",
+            "percentage": "27.06"
         }
     },
     "STATEWIDE AMENDMENT 6": {
         "Yes": {
-            "count": "69,523",
-            "percentage": "68.56"
+            "count": "95,159",
+            "percentage": "66.90"
         },
         "No": {
-            "count": "31,882",
-            "percentage": "31.44"
+            "count": "47,073",
+            "percentage": "33.10"
         }
     },
     "STATEWIDE AMENDMENT 7": {
         "Yes": {
-            "count": "80,178",
-            "percentage": "79.11"
+            "count": "111,261",
+            "percentage": "78.27"
         },
         "No": {
-            "count": "21,174",
-            "percentage": "20.89"
+            "count": "30,894",
+            "percentage": "21.73"
         }
     },
     "STATEWIDE AMENDMENT 8": {
         "Yes": {
-            "count": "69,005",
-            "percentage": "74.37"
+            "count": "95,099",
+            "percentage": "73.46"
         },
         "No": {
-            "count": "23,783",
-            "percentage": "25.63"
+            "count": "34,351",
+            "percentage": "26.54"
         }
     },
     "STATEWIDE AMENDMENT 9": {
         "Yes": {
-            "count": "77,078",
-            "percentage": "76.40"
+            "count": "106,318",
+            "percentage": "75.29"
         },
         "No": {
-            "count": "23,814",
-            "percentage": "23.60"
+            "count": "34,890",
+            "percentage": "24.71"
         }
     },
     "STATEWIDE AMENDMENT 10": {
         "Yes": {
-            "count": "80,370",
-            "percentage": "79.60"
+            "count": "111,267",
+            "percentage": "78.58"
         },
         "No": {
-            "count": "20,599",
-            "percentage": "20.40"
+            "count": "30,324",
+            "percentage": "21.42"
         }
     },
     "JEFFERSON COUNTY  LOCAL AMENDMENT 1": {
         "Yes": {
-            "count": "93,070",
-            "percentage": "87.36"
+            "count": "130,963",
+            "percentage": "87.42"
         },
         "No": {
-            "count": "13,468",
-            "percentage": "12.64"
+            "count": "18,838",
+            "percentage": "12.58"
         }
     }
 }
