@@ -7,14 +7,15 @@ from lxml import etree
 url = 'https://www.jccal.org/elections/'
 
 response = requests.get(url)
-tree = etree.fromstring(
-    response.text.replace('HTML', 'XML').replace(
-        '<script async type=\"text/javascript\" src=\"/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1635945332\"></script>',
-        '',
-    )
-)
+t = re.subn(r'<(script).*?<\/\1>(?s)', '', response.text)[0]
+print(t)
+tree = etree.fromstring(re.subn(r'<(script).*?<\/\1>(?s)', '', response.text)[0])
+# response.text.replace('HTML', 'XML').replace(
+#         '<script async type=\"text/javascript\" src=\"/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1635945332\"></script>',
+#         '',
+#     )
 pre = tree.xpath('//PRE/text()')
-print('pre', pre)
+# print('pre', pre)
 
 lines = pre[0].split('\n\n')
 total = {}
