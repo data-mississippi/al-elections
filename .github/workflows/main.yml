@@ -4,10 +4,10 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - scrape: "*/5 * * * *"
+    - cron: "*/5 * * * *"
 
 jobs:
-  scrape:
+  cron:
     runs-on: ubuntu-latest
     steps:
       # Step 1: Prepare the environment
