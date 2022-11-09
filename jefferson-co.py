@@ -1,8 +1,8 @@
 import requests
 import re
-from lxml import etree
 import sys
 import json
+from lxml import etree
 
 url = 'https://www.jccal.org/elections/'
 
